@@ -731,7 +731,7 @@ const AppSection = () => (
         <div className="relative flex min-h-[380px] items-center justify-center">
           <div className="absolute h-[300px] w-[300px] rounded-full bg-sky-400/10 sm:h-[340px] sm:w-[340px] md:-translate-x-16" />
           <div className="relative h-[340px] w-[220px] overflow-hidden rounded-[32px] border border-white/30 bg-white/10 shadow-2xl">
-            <img src="public/banners/d2.jpg" alt="docter"  className="absolute inset-0 h-full w-full object-cover" />
+            <img src="/banners/d2.jpg" alt="docter"  className="absolute inset-0 h-full w-full object-cover" />
             <div className="absolute inset-0 bg-gradient-to-b from-[#0f1a3a]/10 via-[#0f1a3a]/40 to-[#0f1a3a]/80" />
             <div className="absolute inset-x-5 top-[48%] text-center">
               <p className="text-sm font-semibold">Your Health Hub</p>
